@@ -1,15 +1,14 @@
-<h2 align="left">Hi 👋! My name is Suraj Kumar and I'm an SDE at LTIMindtree.</h2>
+<h2 align="left">Hi 👋! My name is Suraj Kumar and I'm Student.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkumar-github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkumar-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ###
 
-<img align="right" height="150" src="cat-hissing.gif" alt="Cat Hissing" />
+<img align="right" src="cat-hissing.gif" alt="Cat Hissing" />
 
 ###
 
@@ -32,22 +31,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/_suraj.kr_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
   </a>
   <a href="https://discord.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="suraj01515@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/suraj-kumar-44a545264/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
