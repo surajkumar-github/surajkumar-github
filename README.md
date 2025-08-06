@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-glasses-gifs&psig=AOvVaw1Nb-3jKgORrsJUlSdXD2jm&ust=1754595699898000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjB47z49o4DFQAAAAAdAAAAABAE)"  />
 
 ###
 
