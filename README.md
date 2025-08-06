@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Suraj Kumar and I'm a Student.</h2>
-###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=surajkumar-github.surajkumar-github&"  />
 </div>
 
