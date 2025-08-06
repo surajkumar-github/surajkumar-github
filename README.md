@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Suraj Kumar and I'm a Student.</h2>
 <img align="right" height=350 width=350 src="cat-hissing.gif" alt="Cat Hissing" />
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkumar-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
