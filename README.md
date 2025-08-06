@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/WSg2xPUgFY8AAAAd/cat-hissing.gif" alt="Cat Hissing" />
+<img align="right" height="150" src="cat-hissing.gif" alt="Cat Hissing" />
+
 ###
 
 <div align="left">
