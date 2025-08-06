@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Suraj Kumar and I'm a Student.</h2>
-
+<img align="right" height=200 width=200 src="cat-hissing.gif" alt="Cat Hissing" />
 ###
 
 <div align="left">
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height=200 width=200 src="cat-hissing.gif" alt="Cat Hissing" />
+
 
 ###
 
